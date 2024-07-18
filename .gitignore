@@ -1,3 +1,7 @@
 .env
 .python-version
 .idea
+docs
+.DS_Store
+.python-version
+chroma
