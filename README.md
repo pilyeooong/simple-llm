@@ -11,4 +11,5 @@
 
 ## 결과물
   
-<img width="862" alt="run" src="https://github.com/user-attachments/assets/6351af95-3ee3-4a62-8d45-3e0689051d6c">
+![스크린샷 2024-07-23 오후 9 46 15](https://github.com/user-attachments/assets/c60cbaec-b126-4ab7-80ef-56bafed3033c)
+
