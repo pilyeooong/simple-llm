@@ -32,7 +32,7 @@ def get_retriever():
     embedding = OpenAIEmbeddings(model='text-embedding-3-large')
     index_name="tax-md"
     database = PineconeVectorStore.from_existing_index(index_name=index_name, embedding=embedding)
-    retriever = database.as_retriever()
+    retriever = database.as_retriever(search_kwargs={'k': 4})
 
     return retriever
 
