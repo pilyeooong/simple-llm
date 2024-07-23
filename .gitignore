@@ -5,3 +5,4 @@ docs
 .DS_Store
 .python-version
 chroma
+__pycache__/
