@@ -7,6 +7,7 @@
 - langchain
 - pinecone
 - gpt-4o-mini (openai)
+- streamlit
 
 ## 결과물
   
