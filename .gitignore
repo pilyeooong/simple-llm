@@ -6,3 +6,4 @@ docs
 .python-version
 chroma
 __pycache__/
+jupyter
